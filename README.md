@@ -2,7 +2,7 @@
 
 Hi Humans,
 
-Fr3db3rt here, I like powershell and scripting an that's what I will do here
+Fr3db3rt here, I like powershell and scripting and that's what I will do here
 
 Let's see later.
 
